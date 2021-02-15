@@ -1,4 +1,4 @@
-package todolist.configuration.mapping;
+package course.configuration.mapping;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
